@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Calculator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter first number:");
+        System.out.println("Enter 1st number:");
         double num1 = sc.nextDouble();
         System.out.println("Enter an operator (+, -, *, /):");
         char operator = sc.next().charAt(0);
