@@ -1,0 +1,14 @@
+# Ignore all `.log` files
+*.log
+
+# Ignore all `.class` files
+*.class
+
+# Ignore the `node_modules` directory
+node_modules/
+
+# Ignore all files in a specific folder
+/dist/
+
+# Ignore specific files
+secret.txt
